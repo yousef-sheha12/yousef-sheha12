@@ -10,24 +10,19 @@ I'm a passionate Frontend Developer focused on building interactive, accessible,
 ## 🧐 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery,tailwind,bootstrap,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery&perline=7" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,framer,postman,strapi,dotnet,github,vscode,vercel,zod,redhat" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma,framer,postman,strapi&perline=7" />
 </p>
 
-### ⚡ Advanced Tech Stack (Moving Badges)
+### ⚡ Advanced Tools & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-</p>
-
-### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yousef-sheha12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
 </p>
 
 ---
