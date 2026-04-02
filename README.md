@@ -7,35 +7,20 @@ I'm a passionate Frontend Developer focused on building interactive, accessible,
 - 💼 Freelance Frontend Developer.
 - 🌱 Currently working on **Grocery-Next.js** and mastering **TypeScript**.
 - ✍️ Interested in UI/UX and clean code architecture.
+## 🧐 Languages and Tools
 
-### 🛠️ Tech Stack & Tools
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Redux |
 
-**Core:**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/daisyui/art/master/logo/logo.svg" width="40" height="40"/> | <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/> | <img src="https://framerusercontent.com/images/48tUjneH9eXSSU6VvS8OTYCQY.png" width="40" height="40"/> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Tailwind | Bootstrap | Styled Comp | DaisyUI | Shadcn/UI | Figma | Framer |
 
-**Styling & UI:**
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+| <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand-logo.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/react-hook-form/documentation/master/src/assets/logo.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/jquense/yup/master/logo.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/formik/formik/master/assets/formik-logo.png" width="40" height="40"/> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Zustand | Hook Form | .NET/C# | Postman | Zod | Yup | Formik |
 
-**State & Form Management:**
-![Zustand](https://img.shields.io/badge/-Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
-![Formik](https://img.shields.io/badge/-Formik-172B4D?style=for-the-badge&logo=formik&logoColor=white)
-
-**Validation & Backend:**
-![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Yup](https://img.shields.io/badge/-Yup-F29111?style=for-the-badge&logo=yup&logoColor=white)
-![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ### 📊 GitHub Stats
 
 <p align="left">
