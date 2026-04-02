@@ -9,27 +9,25 @@ I'm a passionate Frontend Developer focused on building interactive, accessible,
 - ✍️ Interested in UI/UX and clean code architecture.
 ## 🧐 Languages and Tools
 
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery" /> |
-| :---: |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery,tailwind,bootstrap,sass&theme=dark" />
+</p>
 
-| <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,framer,postman,strapi" /> |
-| :---: |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,framer,postman,strapi,dotnet,github,vscode,vercel,zod,redhat" />
+</p>
 
-| <img src="https://skillicons.dev/icons?i=dotnet,github,vscode,vercel,netlify" /> |
-| :---: |
-
-### ⚡ Technical Arsenal (Advanced Tools)
+### ⚡ Advanced Tech Stack (Moving Badges)
 <p align="left">
   <img src="https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
-### 📊 GitHub Stats
 
+### 📊 GitHub Activity
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yousef-sheha12&show_icons=true&theme=vision-friendly-dark" alt="Yousef's GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-sheha12&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=yousef-sheha12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
 </p>
 
 ---
