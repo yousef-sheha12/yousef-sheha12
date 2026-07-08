@@ -1,7 +1,7 @@
 # Hi there, I'm Yousef Sheha 👋
 
-### 🚀 Frontend Developer | React.js & Next.js
-I'm a passionate Frontend Developer focused on building interactive, accessible, and responsive web applications using modern technologies.
+### 🚀 Full-Stack Developer | React.js, Next.js & .NET
+I am a passionate developer focused on building interactive, scalable, and accessible web applications. I bridge the gap between seamless user experiences and robust backend architecture.
 
 - 🎓 Studying Computer Science & IT.
 - 💼 Freelance Frontend Developer.
